@@ -18,11 +18,11 @@ Please use the above link to run the prototype
 
 There are seven pictures for seven categories made. You can choose any image of yours as well but the 100% correct recognition is not guaranteed since the ML model library is used and is not created by me.
 
-### 2. When the picture is uploaded, click on Sumbit
+#### 2. When the picture is uploaded, click on Sumbit
 
 This will take you to the second part of the project.
 
-### 3. Click on button "My Type"
+#### 3. Click on button "My Type"
 
 And all the categorised products are shown
 
