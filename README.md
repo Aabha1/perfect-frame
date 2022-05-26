@@ -62,13 +62,13 @@ It opens and works.
 
 ### For second part
 
-### 1. Clone repo
+#### 1. Clone repo
 
 ```
 $ git clone git@github.com:Aabha1/PerfectFrame.git
 ```
 
-### 2. To Run Backend
+#### 2. To Run Backend
 
 ```
 $ npm install
@@ -76,7 +76,7 @@ $ npm run build
 $ npm start
 ```
 
-### 3. To Run Frontend
+#### 3. To Run Frontend
 
 ```
 # open new terminal on same workspace
